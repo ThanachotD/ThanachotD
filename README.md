@@ -30,6 +30,12 @@ My name is Thanachot Wongmetin and you can called me in **chot**. I'm 21 years o
 - WEDO Young Talent Program 2022 (Internship Program) at WEDO, SCG in Jun 2022 - Aug 2022 as a Circuit Engineer Design & IOT Cloud and Design UX/UI Web & Mobile Application.
 - Google Student Developer Clubs - Lead & Planning Evenet , Activities and Build GDSC Community
 
+## Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThanachotD)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ThanachotD?tab=repositories))
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanachotD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔥 Currently I am working on
 - Developing and Design my portfolio website.
 - Explore more other new frameworks that I'm interested such as Next.js and Golang
@@ -38,5 +44,4 @@ My name is Thanachot Wongmetin and you can called me in **chot**. I'm 21 years o
 - E-mail: Thanachot.wom@gmail.com
 - Linkedin: https://www.linkedin.com/in/thanachot-wongmetin-94bb49210/
 - Tel: 0824459897
-
 
