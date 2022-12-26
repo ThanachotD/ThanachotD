@@ -10,6 +10,7 @@ My name is Thanachot Wongmetin and you can called me **chot**. I'm 21 years old 
 ![PHP](https://img.shields.io/badge/PHP-4f5b93?style=for-the-badge&logo=PHP&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-304cdc?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-e41c22?style=for-the-badge&logo=java&logoColor=white)
+![TYPESCRIPT}(https://camo.githubusercontent.com/164f7ac561f0e00afb4dfd0f3004de0e1074cdda66aa9cf2af20ee4cad150105/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3264373963373f7374796c653d666f722d7468652d6261646765266c6f676f3d54797065536372697074266c6f676f436f6c6f723d7768697465)
 
 ### :point_right: Front-end Frameworks
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
