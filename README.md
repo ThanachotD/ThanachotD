@@ -2,7 +2,7 @@
 
 My name is Thanachot Wongmetin and you can called me **chot**. I'm 21 years old and I live in Bangkok, Thailand. I'm currently studying software engineering in Thammasat University , I am passionate about designing user interfaces and user experiences . I am always looking for new challenges and opportunities to make innovation.
 
-## 💻 Software Engineering Skills 
+## 💻Technical Capabilities
 ### :point_right: Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-2f6d9d?style=for-the-badge&logo=Python&logoColor=white)
