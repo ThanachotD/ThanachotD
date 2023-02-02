@@ -1,8 +1,10 @@
-# Hi, I'm Thanachot 
+#### Hi, Everyone
 
-My name is Thanachot Wongmetin and you can called me **chot**. I'm 21 years old and I live in Bangkok, Thailand. I'm currently studying software engineering in Thammasat University , I am  passionate about high-quality web and mobile development, And expertise in User Experience and User Interface design who is a fast learner and open-minded to learning new knowledge and self-development.
+My name is Thanachot Wongmetin and you can called me **chot**. 
+* I'm 21 years old and I live in Bangkok, Thailand. I'm currently studying software engineering in Thammasat University.
+*  I am  passionate about high-quality web and mobile development, And expertise in User Experience and User Interface design who is a fast learner and open-minded to learning new knowledge and self-development.
 
-## Technical Capabilities
+#### Technical Capabilities
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-2f6d9d?style=for-the-badge&logo=Python&logoColor=white)
@@ -27,14 +29,8 @@ My name is Thanachot Wongmetin and you can called me **chot**. I'm 21 years old 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4faa41?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618b?style=for-the-badge&logo=MySQL&logoColor=white)
 
-## Github Stats
+#### Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThanachotD)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ThanachotD?tab=repositories))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanachotD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-Contact me
-- E-mail: Thanachot.wom@gmail.com
-- Linkedin: https://www.linkedin.com/in/thanachot-wongmetin-94bb49210/
-- Tel: 0824459897
-
