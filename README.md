@@ -33,7 +33,7 @@ My name is Thanachot Wongmetin and you can called me **chot**. I'm 21 years old 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanachotD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## :mailbox: Contact me
+Contact me
 - E-mail: Thanachot.wom@gmail.com
 - Linkedin: https://www.linkedin.com/in/thanachot-wongmetin-94bb49210/
 - Tel: 0824459897
