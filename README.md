@@ -27,10 +27,6 @@ My name is Thanachot Wongmetin and you can called me **chot**. I'm 21 years old 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4faa41?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618b?style=for-the-badge&logo=MySQL&logoColor=white)
 
-## 💼 Experience
-- WEDO Young Talent Program 2022 (Internship Program) at WEDO, SCG in Jun 2022 - Aug 2022 as a Circuit Engineer Design & IOT Cloud and Design UX/UI Web & Mobile Application.
-- Google Student Developer Clubs - Lead & Planning Evenet , Activities and Build GDSC Community
-
 ## Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThanachotD)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ThanachotD?tab=repositories))
