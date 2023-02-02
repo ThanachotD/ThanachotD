@@ -1,6 +1,6 @@
 #### Hi, Everyone
 
-My name is Thanachot Wongmetin and you can called me **chot**. 
+My name is Thanachot Wongmetin and you can called me **"chot"**. 
 * I'm 21 years old and I live in Bangkok, Thailand. I'm currently studying software engineering in Thammasat University.
 *  I am  passionate about high-quality web and mobile development, And expertise in UXUI who is a fast learner and open-minded to learning new knowledge and self-development.
 
