@@ -4,7 +4,7 @@ My name is Thanachot Wongmetin and you can called me **"chot"**.
 * I'm software engineering Student at Thammasat University.
 * I am  passionate about high-quality web and mobile development, And expertise in UXUI who is a fast learner and open-minded to learning new knowledge and self-development.
 
-#### Technical Capabilities
+### Technical Capabilities
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-2f6d9d?style=for-the-badge&logo=Python&logoColor=white)
