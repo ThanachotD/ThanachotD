@@ -9,7 +9,7 @@ My name is Thanachot Wongmetin and you can called me **"chot"**.
 * ✉️  You can contact me at [Thanachot.won@gmail.com](mailto:Thanachot.won@gmail.com)
 * 🧠  I'm learning Learn Fast API , Go
 
-### Technical Capabilities
+#### languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-2f6d9d?style=for-the-badge&logo=Python&logoColor=white)
