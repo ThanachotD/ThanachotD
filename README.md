@@ -7,7 +7,7 @@ My name is Thanachot Wongmetin and you can called me **"chot"**.
 * 🌍  I'm based in Bangkok , Thailand
 * 🖥️  See my portfolio at [Thanachot](http://thanachot.vercel.app/)
 * ✉️  You can contact me at [Thanachot.won@gmail.com](mailto:Thanachot.won@gmail.com)
-* 🧠  I'm learning Learn Fast API , Go
+* 🧠  I'm learning Fast API , Go
 
 #### languages
 
