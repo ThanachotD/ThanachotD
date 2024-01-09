@@ -30,5 +30,3 @@ My name is Thanachot Wongmetin and you can called me **"chot"**.
 ![Firebase](https://img.shields.io/badge/Firebase-ffa611?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4faa41?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618b?style=for-the-badge&logo=MySQL&logoColor=white)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThanachotD&show_icons=true&theme=radical)
